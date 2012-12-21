@@ -8,7 +8,7 @@ Stable tag:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple widget fpr your site.
+Simple widget for your site.
 
 == Description ==
 
