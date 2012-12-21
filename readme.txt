@@ -1,6 +1,6 @@
 === QRCode Widget ===
 Contributors: mrsugarvn
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GHSHNJY34E6JN&lc=VN&item_name=Anh%20Tuan¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+Donate link: http://tintoi.me
 Tags: widget, qrcode, simple
 Requires at least: 3.0
 Tested up to: 3.5
