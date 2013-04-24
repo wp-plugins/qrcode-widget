@@ -1,6 +1,6 @@
 === QRCode Widget ===
 Contributors: mrsugarvn
-Donate link: http://tintoi.me
+Donate link: http://nhatkysongsong.com
 Tags: widget, qrcode, simple
 Requires at least: 3.0
 Tested up to: 3.5
@@ -12,7 +12,7 @@ Simple widget for your Wordpress site.
 
 == Description ==
 
-This is a plugin to help you add a widget to sidebar or footer, help visitors can go back more easier. QRCode use Google API, so don't worry about speed. Make by [Tin Toi Blog](http://tintoi.me)
+This is a plugin to help you add a widget to sidebar or footer, help visitors can go back more easier. QRCode use Google API, so don't worry about speed. Make by [Song Song Blog](http://nhatkysongsong.com/)
 
 == Installation ==
 

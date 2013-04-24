@@ -1,13 +1,12 @@
 <?php 
 
 /* @package QRCode Widget */
-
 /*
 Plugin Name: QRCode Widget
 Description: This is a plugin to help you add a widget to sidebar or footer, help visitors can go back more easier. QRCode use Google API, so don't worry about speed.
 Author: Anh Tuan
 Version: 1.0
-Author URI: http://tintoi.me
+Author URI: http://nhatkysongsong.com
 */
 
 class tintoi_qrcode extends WP_Widget
